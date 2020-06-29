@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+bundle config mirror.https://rubygems.org https://gems.ruby-china.com
+gem install bundler
+bundle install
