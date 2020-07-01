@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I am a three-year master student of software engineering in the Tsinghua formal verification group [THUFV](https://thufv.github.io). Before that, I achieved my bachelor degree in Harbin Engineering University, 2019. My current research direction is loop invariant generation using learning or synthesis technologies.
+I am a three-year master student of software engineering in the Tsinghua formal verification group [THUFV](https://thufv.github.io). Before that, I achieved my bachelor degree at Harbin Engineering University in 2019. My current research direction is loop invariant generation using learning or synthesis technologies.
 
 ## Education
 * School of Software, Tsinghua University, 2019.8 - 2022.6:
