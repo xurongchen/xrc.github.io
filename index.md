@@ -8,7 +8,7 @@ I am a three-year master student of software engineering in the Tsinghua formal 
 * School of Software, Tsinghua University, 2019.8 - 2022.6:
 <br>
 Master of Engineering, Software Engineering
-(GPA: 3.80/4.00, Rank: 5%)
+(GPA: 3.80/4.00, Rank: 25%)
 
 * College of Computer Science and Technology, Harbin Engineering University, 2015.8 - 2019.6:
 <br>
