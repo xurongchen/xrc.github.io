@@ -28,6 +28,8 @@ Bachelor of Engineering, Computer Science and Technology
 
 ## Publications
 * [FSE-20]  **Rongchen Xu**, [Fei He](https://feihe.github.io) and [Bow-Yaw Wang](https://www.iis.sinica.edu.tw/~bywang/). Interval Counterexamples for Loop Invariant Learning. ESEC/FSE 2020: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, November 2020. 
+* [ICSE-22] **Rongchen Xu**, Jianhui Chen, and [Fei He](https://feihe.github.io). Data-Driven Loop Bound Learning for Termination Analysis. ICSE 2022: 44th International Conference on Software Engineering, May 2022.
+
 
 ## Resume
 * [EN](https://github.com/xurongchen/xurongchen.github.io/raw/master/CV/CV_RongchenXu.pdf)
