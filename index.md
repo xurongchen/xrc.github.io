@@ -32,9 +32,9 @@ Bachelor of Engineering, Computer Science and Technology
 * [ICSE-22] **Rongchen Xu**, Jianhui Chen, and [Fei He](https://feihe.github.io). Data-Driven Loop Bound Learning for Termination Analysis. ICSE 2022: 44th International Conference on Software Engineering, May 2022.
 
 
-## Resume
+<!-- ## Resume
 * [EN](https://github.com/xurongchen/xurongchen.github.io/raw/master/CV/CV_RongchenXu.pdf)
-* [CN](https://github.com/xurongchen/xurongchen.github.io/raw/master/CV/%E7%AE%80%E5%8E%86_%E5%BE%90%E8%8D%A3%E7%90%9B.pdf)
+* [CN](https://github.com/xurongchen/xurongchen.github.io/raw/master/CV/%E7%AE%80%E5%8E%86_%E5%BE%90%E8%8D%A3%E7%90%9B.pdf) -->
 
 <!-- ## Technical Skills
 * Language: Chinese(Native speaker), English(Intermediate-level)
