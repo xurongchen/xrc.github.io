@@ -16,6 +16,7 @@ Bachelor of Engineering, Computer Science and Technology
 (Grade: 95.49/100, Rank: 1/180)
 
 ## Awards
+* First Class Scholarship of Tsinghua University, 2021
 * Top Ten Learning Pacesetter of Harbin Engineering University (Top 0.2%),  2016
 * National Scholarship (Top 1%),  2016
 * Merit Student of Heilongjiang Province (Top 2%),  2016
